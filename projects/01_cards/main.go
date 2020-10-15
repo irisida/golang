@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+func newCard() string {
+	return "card value"
+}
+
 func main() {
-	fmt.Println("I am a Go program")
+	card := newCard()
+	fmt.Println(card)
 }
