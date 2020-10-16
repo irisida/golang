@@ -2,6 +2,11 @@
 
 # Repo contents
 
+- [Go language lessons and tutorials](https://github.com/irisida/golang/tree/master/language_lessons)
+- [projects in Go](https://github.com/irisida/golang/tree/master/projects/)
+
+# Additional info
+
 In building this repository several golang Udemy resources were used and are refereced.
 
 - [Go - Developers guide](https://www.udemy.com/course/go-the-complete-developers-guide)
