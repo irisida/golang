@@ -9,8 +9,12 @@ func main() {
 	// hand.print()
 	// remainingDeck.print()
 
-	cards := newDeck()
+	//cards := newDeck()
 	//fmt.Println(cards.toString())
-	cards.saveToFile("cardsfile.txt")
+	//cards.saveToFile("cardsfile.txt")
+
+	cards := newDeckFromFile("cardsfile.txt")
+	cards.shuffle()
+	cards.print()
 
 }
