@@ -1,3 +1,5 @@
+![](https://hackernoon.com/drafts/0fnv29qd.png)
+
 ## The iota type
 
 - Can be used a constant sequence/incrementor, or negated to be a decrementor.

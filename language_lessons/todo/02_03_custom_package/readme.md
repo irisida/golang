@@ -1,3 +1,5 @@
+![](https://hackernoon.com/drafts/0fnv29qd.png)
+
 ## Creating and importing a custom package
 
 when creating a custom package, we adhere to the:
