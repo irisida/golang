@@ -1,4 +1,4 @@
-![](https://hackernoon.com/drafts/0fnv29qd.png)
+![](https://github.com/irisida/golang/blob/master/assets/gopher.jpeg)
 
 # Go - A simple Introduction
 
