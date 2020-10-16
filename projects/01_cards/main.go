@@ -1,12 +1,16 @@
 package main
 
-import "fmt"
-
-func newCard() string {
-	return "card value"
-}
-
 func main() {
-	card := newCard()
-	fmt.Println(card)
+	// cards := newDeck()
+
+	// hand, remainingDeck := deal(cards, 5)
+
+	// cards.print()
+	// hand.print()
+	// remainingDeck.print()
+
+	cards := newDeck()
+	//fmt.Println(cards.toString())
+	cards.saveToFile("cardsfile.txt")
+
 }

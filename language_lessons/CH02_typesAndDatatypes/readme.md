@@ -22,3 +22,6 @@
 - `pointer` a pointer is a variable that stores the memory address of another variable. The value of an uninitialised pointer is nil.
 - `function and interface`
 - `channel` provides a mechanism for concurrently executing functions to communicate by sending and receiving values of a specified element type.
+
+- arrays and slices must be of a fixed type
+- disimilar types cause compilation errors

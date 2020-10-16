@@ -15,7 +15,7 @@ In building this repository several golang Udemy resources were used and are ref
 
 # Go resources
 
-- [official Go website](https://golang.org/)
+- [Official Go website](https://golang.org/)
 - [Language reference documentation](https://golang.org/doc/)
 - [Go playground](https://play.golang.org/)
 
