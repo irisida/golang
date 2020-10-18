@@ -59,3 +59,13 @@ func (p *person) updateNameValue(receivedNameValue string) {
 	(*p).firstName = receivedNameValue
 }
 ```
+
+# Maps Vs Structs
+
+| Maps                                                | Structs                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| All keys must be of the same type                   | keys don't support indexing                                   |
+| All values must be of the same type                 | Values can be of different type                               |
+| Use to represent a collection of related properties | Use to represent something with a lot of different properties |
+| don't need to know keys at compile time             | Needs to know all the different filds at compile time         |
+| reference type                                      | value type                                                    |
