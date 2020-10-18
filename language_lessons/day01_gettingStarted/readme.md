@@ -93,6 +93,8 @@ hello Go
 
 fmt (short for format, often pronounced as "foomt") is the formatting package for Go that facilitates simple console IO as well as more complex formatting operations. A good early example of file level imports, where you have a multiple file program and multiple files with formatting demands you should import "fmt" in each.
 
+![](https://github.com/irisida/golang/blob/master/assets/day1/day01.003.png)
+
 ## Variables in go
 
 covers declaration and assignment forms.
@@ -105,6 +107,8 @@ covers declaration and assignment forms.
 - `var price float64` initialized with 0.0
 - `var name string` initialized with empty string -> ""
 - `var done bool` initialized with false
+
+![](https://github.com/irisida/golang/blob/master/assets/day1/day01.004.png)
 
 ## Rules of assignment
 
