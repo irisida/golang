@@ -69,3 +69,21 @@ func (p *person) updateNameValue(receivedNameValue string) {
 | Use to represent a collection of related properties | Use to represent something with a lot of different properties |
 | don't need to know keys at compile time             | Needs to know all the different filds at compile time         |
 | reference type                                      | value type                                                    |
+
+# interfaces
+
+Interfaces are just a type that other types can have an honourary badge as _being of_. Other languages mention of `implementing an interface` and here we see it more as a loose `is also a` relationship. Therefore we will see in Go terms the notion of concrete types and interface types.
+
+| Concrete types  | Interface types        |
+| --------------- | ---------------------- |
+| map             |                        |
+| struct          |                        |
+| int             |                        |
+| string          |                        |
+| userDefinedType | user defined interface |
+
+- Go does not have generics.
+- Interfaces are not generic types, as seen in other languages.
+- Interfaces are implicit. We don't have to manually have to say that a custom type satisfies an interface.
+- Interfaces are a contract to manage types.
+- Interfaces are considered as advanced or tough. Requiring experience and some insight/forethought.
