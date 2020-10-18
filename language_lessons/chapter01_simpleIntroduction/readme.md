@@ -12,6 +12,8 @@ So, we're going to take some assumptions on the basis that it's `strongly typed`
 
 Let's see the hello world nonsense then....
 
+![](https://github.com/irisida/golang/blob/master/assets/day1/day01.001.png)
+
 # Go - A simple Introduction
 
 ## Basic Structure
