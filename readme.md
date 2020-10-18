@@ -30,3 +30,32 @@ In building this repository several golang Udemy resources were used and are ref
 
 - Turn `address` into `value` with `*address`
 - Turn `value` into `address` with `&value`
+
+# Pointers shortcut in Go
+
+In Go you can shortcircuit the process of:
+
+- create variable holding address `ptr := &target`
+- call function that receives a pointer with `ptr`
+
+Instead you can pas the object and Go is smart enough to make that converion/leap for you.
+
+```go
+/* assume a struct that takes two values to make a person */
+func main() {
+	emp := person{
+		firstName: "Bez",
+		lastName:  "Mondo",
+	}
+
+    emp.print()
+    /* call func that expects a pointer, on the actual object */
+	emp.updateNameValue("Ed")
+	emp.print()
+}
+
+/* note the func receiver */
+func (p *person) updateNameValue(receivedNameValue string) {
+	(*p).firstName = receivedNameValue
+}
+```
