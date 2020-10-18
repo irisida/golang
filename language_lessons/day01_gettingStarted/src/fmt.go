@@ -8,7 +8,7 @@ package main
 
 import "fmt"
 
-func main() {
+func fmtExample() {
 
 	/*
 		fmt.Println() writes to standard output.

@@ -26,7 +26,7 @@ const hoursInDay = 24
 	func that the compiler automatically understands
 	as the execution entry point of any go program
 */
-func main() {
+func gettingStarted() {
 
 	secondsInDay := secondsInHour * hoursInDay
 	fmt.Printf("type: %T  value: %v", secondsInDay, secondsInDay)

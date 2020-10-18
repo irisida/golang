@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-func main() {
+func statementsAndExpressions() {
 
 	/*
 		runtime.NumCPU() is an expression, it returns a value.
