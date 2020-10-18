@@ -1,5 +1,17 @@
 ![](https://github.com/irisida/golang/blob/master/assets/gopher.jpeg)
 
+How do you start learning a programming language, or a new programming language? That's pretty much what I'm going to try to cover in this repository. It will be a mix of code snippets, projects and readmes, blog posts, snatched and butchered ideas.
+
+So, I'm going to covering Go. Why go you might ask, well to be honest because I'm trying to learn it myself and because in this content obsessed world I thought I'd have a pop at writing about how I'm going about it. Background wise I've been programming since before the internet. Once upon a time I did a lot of it, these days I mostly have other people working on my teams doing it and that relegates me to the evening hobbyist. The interested party and casual participant. So, of youre reading along you should manage your expectations that this is not going to be some revolutionary programming guide with a hot spin on learning techniques, at best you might get a sense of how an old dog onboards new (Are they new?) tricks.
+
+Right, let's go then... Go, a product of lofty minds at Google who fancied tarting up C/C++ of some of the issues as well as addressing the need for a modern language that deals with multicore processors and has a great concurrency model. Such promise!
+
+### OK, hit me with the day 1 jazz...
+
+So, we're going to take some assumptions on the basis that it's `strongly typed` and has a basis in C and C-like languages. By this the older cynic can deduce the intention of the project was always to move beyond an internal tool, to keep tried, tested and battlehardened concepts from an absolute warhorse of a language. So we may also gather that they genuienly are looking to have ease at the core of the language and concession #1 was to use/re-use syntactic constructs from the most ppopular languages of the last 40+ years.
+
+Let's see the hello world nonsense then....
+
 # Go - A simple Introduction
 
 ## Basic Structure
