@@ -25,3 +25,8 @@ In building this repository several golang Udemy resources were used and are ref
 - Set the GOPATH to `Users/username/go`
 - Within the GOPATH directory create three subdirectories, `bin`, `pkg` & `src`
 - within the `src` directory create a `github.com` directory and your GH username as a child of that. From within that child directory you will create and store your Go projects.
+
+# Simple pointers lesson
+
+- Turn `address` into `value` with `*address`
+- Turn `value` into `address` with `&value`
