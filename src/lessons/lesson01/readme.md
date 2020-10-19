@@ -2,13 +2,15 @@
 
 # Lesson 1
 
-## Installation & Setup common best practices
+## Setup & common best practice
 
 Up until 1.11 Go was quite strict on the package management structure and expected all work to be in a single repository located at `$HOME/go/src` and more typically at `$HOME/go/src/github.com/username/repository_name`. Since go 1.12 go modules allow for a different location and packaging system. This repo will adhere to the original structure because:
 
 - That's how my machine is setup currently
 - The majority of learning resources you will stumble upon while learning Go will still refer to this
 - migrating to Go modules once I know what I'm doing will give a useful reference point of working with both flavours of Go structure.
+
+## Installation Instructions
 
 - Install golang for your system from [here](https://golang.org/)
 - Set the GOPATH to `Users/username/go`
@@ -160,7 +162,7 @@ func main() {
 }
 ```
 
-Above we see a couple of different variable declaration techniques. We're going to see more of that in the dedicated code sample [here](). It's entirely possible to see multiple types of declaration in a single large program where many authors are present and where code review does not forbid specific declaration types.
+Above we see a couple of different variable declaration techniques. We're going to see more of that in the dedicated code sample [here](https://github.com/irisida/golang/blob/master/src/lessons/lesson01/104_variableDeclarations/multipleDeclaration.go). It's entirely possible to see multiple types of declaration in a single large program where many authors are present and where code review does not forbid specific declaration types.
 
 - long form `var varname datatype = value`
 - short form (walrus operator) `varname := value`
