@@ -1,6 +1,6 @@
 ![](https://github.com/irisida/golang/blob/master/assets/freegopher.png)
 
-# Learning Go
+# Day 1
 
 How do you start learning a programming language? ..or a new programming language? That's pretty much what I'm going to try to cover in this repository. It will be a mix of code snippets, little trivial mini-projects and readmes. I'll probably tart some of it out as blog posts with snatched and butchered ideas twisted to my own amusement.
 
