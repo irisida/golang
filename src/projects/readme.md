@@ -11,3 +11,9 @@
 4. [interfaces](/src/projects/04_interfaces) - Another syntax an concept introduction project as opposed to an actual project. Again, this will be moved to a language concepts part of the repo structure at a later stage
 
 5. [http and Reader interfaces](/src/projects/05_http_interfaces) - Small http based get request project to demonstrate the power of the Reader interface in Go.
+
+6. [shapes](/src/projects/06_shapes) - class squares and rectangles, triangles code demo. basically demonstrates how to use interfaces to implement a bit of code reuse and method standardisation.
+
+7. [files](/src/projects/07_files) - files based reading/writing project.
+
+8. [go channels and routines](/src/projects/08_channels) - demo project showing how to use go routines and channels.
