@@ -1,5 +1,5 @@
 run:
-	go run main.go longform.go shortform.go multipleDeclaration.go
+	go run main.go multipleDeclaration.go
 
 build:
-	go build -o 104_variables main.go longform.go shortform.go multipleDeclaration.go
+	go build -o 104_variables main.go multipleDeclaration.go

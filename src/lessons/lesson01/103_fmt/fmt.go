@@ -4,6 +4,7 @@ import "fmt"
 
 /*
 	Package fmt:
+
 	1) implements formatted I/O with functions analogous to the C language
 	printf and scanf functions. It's used mainly to print to the stdout.
 	2) fmt.Println() writes to standard output. Spaces are always added
