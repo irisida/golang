@@ -36,4 +36,19 @@ func main() {
 		fmt.Println("conditional was found: ", v)
 	}
 
+	// adding a new element is as simple as declaring it.
+	m["pure"] = 599
+
+	// loop the map with a range loop
+	for k, v := range m {
+		fmt.Println(k, v)
+	}
+
+	// delete a key and value from the map
+	delete(m, "pure")
+
+	for k, v := range m {
+		fmt.Println(k, v)
+	}
+
 }
