@@ -2,4 +2,4 @@ run:
 	go run main.go
 
 build:
-	go build -o for main.go
+	go build -o switch main.go
