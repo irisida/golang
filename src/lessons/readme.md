@@ -14,6 +14,9 @@
    - iota
    - iota and bit shifting
 3. [Lesson 3](https://github.com/irisida/golang/tree/master/src/lessons/lesson03)
+   - control flow
+   - looping
+   - conditional control
 4. [Lesson 4]()
 5. [Lesson 5]()
 6. [Lesson 6]()
