@@ -8,11 +8,11 @@
    - Basic formatting with fmt.
    - Variable declarations. Multiple syntactic styles in Go
 2. [Lesson 2]()
-
    - primitive datatypes
    - utf8
+   - bit shifting
    - iota
-
+   - iota and bit shifting
 3. [Lesson 3]()
 4. [Lesson 4]()
 5. [Lesson 5]()

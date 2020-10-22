@@ -5,3 +5,4 @@
 - primitive datatypes
 - utf8 and using fmt to display utf8 output
 - the iota - sequencing constants
+- bit shifting
