@@ -20,3 +20,11 @@
 4. [Lesson 4]()
 5. [Lesson 5]()
 6. [Lesson 6]()
+
+# Additional info
+
+In building this repository several golang Udemy resources were used and are referenced.
+
+- [Udemy - Go - Developers guide](https://www.udemy.com/course/go-the-complete-developers-guide)
+- [Udemy - Go - Master Go programming](https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp).
+- [Udemy - Go - complete bootcamp](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang)
