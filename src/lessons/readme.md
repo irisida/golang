@@ -17,9 +17,29 @@
    - control flow
    - looping
    - conditional control
-4. [Lesson 4]()
-5. [Lesson 5]()
-6. [Lesson 6]()
+4. [Lesson 4](https://github.com/irisida/golang/tree/master/src/lessons/lesson04)
+   - Arrays
+   - Slices
+   - Multi-dimensional slices
+   - maps
+5. [Lesson 5](https://github.com/irisida/golang/tree/master/src/lessons/lesson05)
+   - simple structs intro
+6. [Lesson 6](https://github.com/irisida/golang/tree/master/src/lessons/lesson06)
+   - funcs (functions)
+   - defer
+7. [Lesson 7](https://github.com/irisida/golang/tree/master/src/lessons/lesson07)
+   - Args and the os package
+8. [Lesson 8](https://github.com/irisida/golang/tree/master/src/lessons/lesson08)
+   - named types
+   - aliased types
+   - understanding type overflow
+9. [Lesson 9](https://github.com/irisida/golang/tree/master/src/lessons/lesson09)
+10. [Lesson 10](https://github.com/irisida/golang/tree/master/src/lessons/lesson10)
+11. [Lesson 11](https://github.com/irisida/golang/tree/master/src/lessons/lesson11)
+12. [Lesson 12](https://github.com/irisida/golang/tree/master/src/lessons/lesson12)
+13. [Lesson 13](https://github.com/irisida/golang/tree/master/src/lessons/lesson13)
+14. [Lesson 14](https://github.com/irisida/golang/tree/master/src/lessons/lesson14)
+15. [Lesson 15](https://github.com/irisida/golang/tree/master/src/lessons/lesson15)
 
 # Additional info
 
