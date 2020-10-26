@@ -7,6 +7,7 @@ How do you start learning a programming language? ..or learning a new programmin
 # Repo Contents
 
 - [SOLID principles with Go](https://github.com/irisida/SOLIDgo)
+- [Design Patterns with Go](/src/designPatterns/)
 - [Programming with Go - Lessons](https://github.com/irisida/golang/tree/master/src/lessons/)
 - [Programming with Go - Projects](https://github.com/irisida/golang/tree/master/src/projects/)
 
