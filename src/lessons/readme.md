@@ -1,4 +1,4 @@
-    ![](/src/assets/freegopher.png)
+![](/src/assets/freegopher.png)
 
 # Lessons
 
