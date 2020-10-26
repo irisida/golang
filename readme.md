@@ -1,4 +1,4 @@
-![](https://github.com/irisida/golang/blob/master/src/assets/freegopher.png)
+![](/src/assets/freegopher.png)
 
 # The Go programming language
 
@@ -8,8 +8,8 @@ How do you start learning a programming language? ..or learning a new programmin
 
 - [SOLID principles with Go](https://github.com/irisida/SOLIDgo)
 - [Design Patterns with Go](/src/designPatterns/)
-- [Programming with Go - Lessons](https://github.com/irisida/golang/tree/master/src/lessons/)
-- [Programming with Go - Projects](https://github.com/irisida/golang/tree/master/src/projects/)
+- [Programming with Go - Lessons](/src/lessons/)
+- [Programming with Go - Projects](/src/projects/)
 
 # Go Resources
 
