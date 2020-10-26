@@ -1,4 +1,4 @@
-![](https://github.com/irisida/golang/blob/master/src/assets/freegopher.png)
+![](/src/assets/freegopher.png)
 
 # Go projects
 
