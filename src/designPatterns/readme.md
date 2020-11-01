@@ -4,3 +4,4 @@
 
 - [The Builder Patterns](https://github.com/irisida/goBuilderPattern)
 - [The Factories Patterns](https://github.com/irisida/goFactoriesPattern)
+- [The Prototpes Patterns](https://github.com/irisida/goPrototypeDesignPattern)
