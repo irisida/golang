@@ -6,3 +6,4 @@
 - [The Factories Patterns](https://github.com/irisida/goFactoriesPattern)
 - [The Prototpes Patterns](https://github.com/irisida/goPrototypeDesignPattern)
 - [The Singleton Pattern](https://github.com/irisida/goSingletonDesignPattern)
+- [The Adapter Pattern](https://github.com/irisida/goAdapterDesignPattern)
